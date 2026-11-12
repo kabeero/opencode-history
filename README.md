@@ -67,7 +67,7 @@ You can also bind the command from your own `keybinds` using its command ID, `hi
 
 ## Requirements
 
-- OpenCode V2 (TUI plugin API, `@opencode/plugin/tui`)
+- OpenCode V2 (TUI plugin API, `@opencode/plugin/tui`). Developed and tested on macOS with OpenCode v2.2.5.
 - `$VISUAL` or `$EDITOR` set in the environment OpenCode runs in
 
 ## License
